@@ -11,10 +11,15 @@ All txt format instances can be found in instances folder.
 
 Executable
 You can just run the GDP.jar as follows.
-
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
 java -jar GDP.jar "FOLDER_WITH_INSTANCES"
 
 java -jar GDP.jar instances/USCAP
+    </div>
+  </foreignObject>
+</svg>
 
 If you want new instances just replace folder instances.
 
@@ -22,16 +27,4 @@ Solutions
 Solution folder contains an excel with the results and a folder with each solution per instance.
 
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
 
-      <style>
-        /* your CSS */
-      </style>
-
-      <!-- your HTML -->
-
-    </div>
-  </foreignObject>
-</svg>
