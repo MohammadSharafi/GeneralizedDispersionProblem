@@ -1,0 +1,4 @@
+32 4 5 22 25 10 26 27 
+Dispersion: 141.1
+Total cost: 6595.0
+Total capacity: 5501.0
