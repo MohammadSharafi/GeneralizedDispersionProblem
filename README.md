@@ -13,7 +13,9 @@ Executable
 You can just run the GDP.jar as follows.
 
 java -jar GDP.jar "FOLDER_WITH_INSTANCES"
+
 java -jar GDP.jar instances/USCAP
+
 If you want new instances just replace folder instances.
 
 Solutions
