@@ -3,7 +3,6 @@ Diversity and dispersion problems deal with selecting a subset of elements from 
 
 * Paper link: <[https://doi.org/10.1016/j.eswa.2022.116899](https://www.sciencedirect.com/science/article/pii/S0957417421001445)>
 
-![USCAP](https://user-images.githubusercontent.com/20272434/158191813-5efc0a4b-2fdf-4109-aacb-ad31a575a7c7.png)
 
 ## Datasets
 
